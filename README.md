@@ -1,7 +1,7 @@
 #static-component-webpack-plugin
 webpack静态组件插件
 
-<pre><code>
+<code>
     var Plugin = require('static-component-webpack-plugin')
 
     //webpack配置
@@ -33,4 +33,4 @@ webpack静态组件插件
     </body>
     </html>
 
-</code></pre>
+</code>
