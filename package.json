@@ -1,0 +1,25 @@
+{
+  "name": "static-component-webpack-plugin",
+  "version": "1.0.0",
+  "description": "webpack静态组件插件",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "wanglei",
+  "keywords": [
+    "static-component-webpack-plugin",
+    "webpack",
+    "plugin",
+    "component",
+    "static"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wanglei8381/static-component-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "git@github.com:wanglei8381/static-component-webpack-plugin.git/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.0.0"
+  }
+}
